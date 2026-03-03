@@ -1,0 +1,782 @@
+[
+  {
+    "doc_id": "poland_onboarding_v1",
+    "section_id": "onboarding",
+    "text": "In Poland, standard onboarding requires a signed employment contract, proof of identity, social security number (PESEL) or equivalent, and bank account details for salary payment.",
+    "metadata": {
+      "country": "Poland",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-01"
+    },
+    "score": 0.9
+  },
+  {
+    "doc_id": "germany_onboarding_v2",
+    "section_id": "onboarding",
+    "text": "German onboarding includes preparation of employment contract, registration with health insurance, and provision of tax identification number.",
+    "metadata": {
+      "country": "Germany",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-02"
+    },
+    "score": 0.895
+  },
+  {
+    "doc_id": "france_onboarding_v3",
+    "section_id": "onboarding",
+    "text": "French onboarding typically involves issuing a written contract, informing social security authorities, and providing required statutory disclosures to the employee.",
+    "metadata": {
+      "country": "France",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-03"
+    },
+    "score": 0.89
+  },
+  {
+    "doc_id": "uk_onboarding_v4",
+    "section_id": "onboarding",
+    "text": "In the UK, onboarding requires issuing a statement of terms and conditions, registering employees for tax, and setting up payroll.",
+    "metadata": {
+      "country": "UK",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-04"
+    },
+    "score": 0.885
+  },
+  {
+    "doc_id": "spain_onboarding_v5",
+    "section_id": "onboarding",
+    "text": "Spanish onboarding includes signing the contract, registering with social security, and ensuring all work permits and required documentation are filed.",
+    "metadata": {
+      "country": "Spain",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-05"
+    },
+    "score": 0.88
+  },
+  {
+    "doc_id": "italy_onboarding_v6",
+    "section_id": "onboarding",
+    "text": "Italian onboarding procedures require execution of employment contract, social security registration, and submission of safety documentation.",
+    "metadata": {
+      "country": "Italy",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-06"
+    },
+    "score": 0.875
+  },
+  {
+    "doc_id": "ireland_onboarding_v7",
+    "section_id": "onboarding",
+    "text": "Irish onboarding includes providing a contract, registering for tax registration, and setting up employment records.",
+    "metadata": {
+      "country": "Ireland",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-07"
+    },
+    "score": 0.87
+  },
+  {
+    "doc_id": "netherlands_onboarding_v8",
+    "section_id": "onboarding",
+    "text": "Dutch onboarding requires an employment contract, registration of the employment relationship with the tax authorities, and setup of payroll.",
+    "metadata": {
+      "country": "Netherlands",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-08"
+    },
+    "score": 0.865
+  },
+  {
+    "doc_id": "belgium_onboarding_v9",
+    "section_id": "onboarding",
+    "text": "Belgian onboarding involves signing employment contract, social security declaration, and registration with relevant labor authorities.",
+    "metadata": {
+      "country": "Belgium",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-09"
+    },
+    "score": 0.86
+  },
+  {
+    "doc_id": "sweden_onboarding_v10",
+    "section_id": "onboarding",
+    "text": "Swedish onboarding requires employment contract, tax registration, and notification to the public employment service where applicable.",
+    "metadata": {
+      "country": "Sweden",
+      "topics": [
+        "onboarding"
+      ],
+      "updated_at": "2025-01-10"
+    },
+    "score": 0.855
+  },
+  {
+    "doc_id": "germany_probation_v11",
+    "section_id": "probation",
+    "text": "In Germany, termination during probation is generally allowed with shorter notice periods, but must not be discriminatory or in breach of special protections such as pregnancy or works council members.",
+    "metadata": {
+      "country": "Germany",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-11"
+    },
+    "score": 0.85
+  },
+  {
+    "doc_id": "france_probation_v12",
+    "section_id": "probation",
+    "text": "French probationary periods allow simplified termination subject to notice requirements that vary based on seniority and contractual terms.",
+    "metadata": {
+      "country": "France",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-12"
+    },
+    "score": 0.845
+  },
+  {
+    "doc_id": "uk_probation_v13",
+    "section_id": "probation",
+    "text": "In the UK, during probation unfair dismissal protections may have longer qualifying periods, but employers must still avoid discriminatory reasons.",
+    "metadata": {
+      "country": "UK",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-13"
+    },
+    "score": 0.84
+  },
+  {
+    "doc_id": "spain_probation_v14",
+    "section_id": "probation",
+    "text": "Spanish probationary periods must be explicitly documented in the contract and allow simplified dismissal during the trial period.",
+    "metadata": {
+      "country": "Spain",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-14"
+    },
+    "score": 0.835
+  },
+  {
+    "doc_id": "poland_probation_v15",
+    "section_id": "probation",
+    "text": "Poland allows probationary periods that permit simplified termination during the probation, but employer and employee rights must still be observed.",
+    "metadata": {
+      "country": "Poland",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-15"
+    },
+    "score": 0.83
+  },
+  {
+    "doc_id": "netherlands_probation_v16",
+    "section_id": "probation",
+    "text": "Dutch probation rules allow shorter notice during the trial period but require formal documentation to be enforceable.",
+    "metadata": {
+      "country": "Netherlands",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-16"
+    },
+    "score": 0.825
+  },
+  {
+    "doc_id": "italy_probation_v17",
+    "section_id": "probation",
+    "text": "Italian probation periods vary by sector and contract type; termination during probation requires proper notice as specified in collective bargaining agreements.",
+    "metadata": {
+      "country": "Italy",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-17"
+    },
+    "score": 0.82
+  },
+  {
+    "doc_id": "ireland_probation_v18",
+    "section_id": "probation",
+    "text": "Irish probation allows employers flexibility in termination but does not remove other employment law protections during the trial period.",
+    "metadata": {
+      "country": "Ireland",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-18"
+    },
+    "score": 0.815
+  },
+  {
+    "doc_id": "belgium_probation_v19",
+    "section_id": "probation",
+    "text": "Belgian employment law allows a trial period during which either party may terminate with proper notice, as specified in contract or law.",
+    "metadata": {
+      "country": "Belgium",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-19"
+    },
+    "score": 0.81
+  },
+  {
+    "doc_id": "sweden_probation_v20",
+    "section_id": "probation",
+    "text": "Sweden permits trial employment periods where either party may terminate without cause if notice is provided as required.",
+    "metadata": {
+      "country": "Sweden",
+      "topics": [
+        "probation"
+      ],
+      "updated_at": "2025-01-20"
+    },
+    "score": 0.805
+  },
+  {
+    "doc_id": "france_notice_v21",
+    "section_id": "notice_period",
+    "text": "In France, an employee with two years of continuous service is typically required to give at least one month's notice before resigning, unless otherwise specified in their contract or collective agreement.",
+    "metadata": {
+      "country": "France",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-21"
+    },
+    "score": 0.8
+  },
+  {
+    "doc_id": "germany_notice_v22",
+    "section_id": "notice_period",
+    "text": "German notice periods scale with tenure; during probation notice is shorter, while longer tenures require more formal notice periods defined by law or collective agreements.",
+    "metadata": {
+      "country": "Germany",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-22"
+    },
+    "score": 0.795
+  },
+  {
+    "doc_id": "uk_notice_v23",
+    "section_id": "notice_period",
+    "text": "In the UK, notice periods depend on contract and statutory minimums; employers typically must provide at least one week's notice, and employees may contractually require longer notice.",
+    "metadata": {
+      "country": "UK",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-23"
+    },
+    "score": 0.79
+  },
+  {
+    "doc_id": "spain_notice_v24",
+    "section_id": "notice_period",
+    "text": "Spanish notice periods vary by cause and contract type but generally require statutory notice unless otherwise agreed in contract or collective agreement.",
+    "metadata": {
+      "country": "Spain",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-24"
+    },
+    "score": 0.785
+  },
+  {
+    "doc_id": "italy_notice_v25",
+    "section_id": "notice_period",
+    "text": "In Italy, notice periods depend on collective bargaining agreements and contract terms, varying significantly by sector and seniority.",
+    "metadata": {
+      "country": "Italy",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-25"
+    },
+    "score": 0.78
+  },
+  {
+    "doc_id": "poland_notice_v26",
+    "section_id": "notice_period",
+    "text": "Polish notice periods typically range from one to three months depending on seniority and role, as defined by law or contract.",
+    "metadata": {
+      "country": "Poland",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-26"
+    },
+    "score": 0.775
+  },
+  {
+    "doc_id": "netherlands_notice_v27",
+    "section_id": "notice_period",
+    "text": "Dutch notice periods are typically one month, but collective agreements or contracts may specify longer periods based on tenure.",
+    "metadata": {
+      "country": "Netherlands",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-27"
+    },
+    "score": 0.77
+  },
+  {
+    "doc_id": "belgium_notice_v28",
+    "section_id": "notice_period",
+    "text": "Belgian notice periods depend on employment category and tenure, generally ranging from days to months as specified in law or contract.",
+    "metadata": {
+      "country": "Belgium",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-28"
+    },
+    "score": 0.765
+  },
+  {
+    "doc_id": "ireland_notice_v29",
+    "section_id": "notice_period",
+    "text": "Irish notice periods are generally a minimum of two weeks under statute, but contracts may specify longer periods.",
+    "metadata": {
+      "country": "Ireland",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-29"
+    },
+    "score": 0.76
+  },
+  {
+    "doc_id": "sweden_notice_v30",
+    "section_id": "notice_period",
+    "text": "Swedish notice periods are typically one month and apply to both employer and employee, unless collective agreement specifies otherwise.",
+    "metadata": {
+      "country": "Sweden",
+      "topics": [
+        "notice"
+      ],
+      "updated_at": "2025-01-30"
+    },
+    "score": 0.755
+  },
+  {
+    "doc_id": "germany_termination_v31",
+    "section_id": "termination",
+    "text": "German termination procedures require compliance with notice periods and may be subject to protection schemes for certain groups.",
+    "metadata": {
+      "country": "Germany",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-01"
+    },
+    "score": 0.75
+  },
+  {
+    "doc_id": "france_termination_v32",
+    "section_id": "termination",
+    "text": "French termination procedures must follow statutory requirements and may involve consultation with employee representatives.",
+    "metadata": {
+      "country": "France",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-02"
+    },
+    "score": 0.745
+  },
+  {
+    "doc_id": "uk_termination_v33",
+    "section_id": "termination",
+    "text": "In the UK, unfair dismissal protections generally apply after a qualifying period; dismissals must follow fair procedures and have fair reasons.",
+    "metadata": {
+      "country": "UK",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-03"
+    },
+    "score": 0.74
+  },
+  {
+    "doc_id": "spain_termination_v34",
+    "section_id": "termination",
+    "text": "In Spain, termination procedures must follow statutory notice requirements and may vary by contract type; certain dismissals require a specific cause.",
+    "metadata": {
+      "country": "Spain",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-04"
+    },
+    "score": 0.735
+  },
+  {
+    "doc_id": "italy_termination_v35",
+    "section_id": "termination",
+    "text": "Italian termination is subject to protective rules and may require proper cause documentation, with potential severance obligations.",
+    "metadata": {
+      "country": "Italy",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-05"
+    },
+    "score": 0.73
+  },
+  {
+    "doc_id": "poland_termination_v36",
+    "section_id": "termination",
+    "text": "Polish termination requires adherence to notice periods and may involve severance payments depending on reason and tenure.",
+    "metadata": {
+      "country": "Poland",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-06"
+    },
+    "score": 0.725
+  },
+  {
+    "doc_id": "netherlands_termination_v37",
+    "section_id": "termination",
+    "text": "Dutch termination processes require notice of intent and may need approval from labor authority in certain cases.",
+    "metadata": {
+      "country": "Netherlands",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-07"
+    },
+    "score": 0.72
+  },
+  {
+    "doc_id": "belgium_termination_v38",
+    "section_id": "termination",
+    "text": "Belgian termination must follow notice requirements; severance obligations vary based on tenure and contract category.",
+    "metadata": {
+      "country": "Belgium",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-08"
+    },
+    "score": 0.715
+  },
+  {
+    "doc_id": "ireland_termination_v39",
+    "section_id": "termination",
+    "text": "Irish termination is subject to unfair dismissal protections after a qualifying period and must follow fair procedures.",
+    "metadata": {
+      "country": "Ireland",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-09"
+    },
+    "score": 0.71
+  },
+  {
+    "doc_id": "sweden_termination_v40",
+    "section_id": "termination",
+    "text": "Swedish termination requires just cause unless in probation, with notice and potentially severance obligations.",
+    "metadata": {
+      "country": "Sweden",
+      "topics": [
+        "termination"
+      ],
+      "updated_at": "2025-02-10"
+    },
+    "score": 0.705
+  },
+  {
+    "doc_id": "uk_holidays_v41",
+    "section_id": "holidays",
+    "text": "In the UK, full-time employees are entitled to a minimum of 28 days of paid annual leave (which can include public holidays).",
+    "metadata": {
+      "country": "UK",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-11"
+    },
+    "score": 0.7
+  },
+  {
+    "doc_id": "germany_holidays_v42",
+    "section_id": "holidays",
+    "text": "German employees are entitled to a minimum of 20 days of annual leave per year, plus statutory public holidays.",
+    "metadata": {
+      "country": "Germany",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-12"
+    },
+    "score": 0.695
+  },
+  {
+    "doc_id": "france_holidays_v43",
+    "section_id": "holidays",
+    "text": "French employees are entitled to five weeks of paid annual leave plus statutory public holidays.",
+    "metadata": {
+      "country": "France",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-13"
+    },
+    "score": 0.69
+  },
+  {
+    "doc_id": "spain_holidays_v44",
+    "section_id": "holidays",
+    "text": "Spanish employees receive a minimum of 30 days of annual leave plus 14 public holidays per year.",
+    "metadata": {
+      "country": "Spain",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-14"
+    },
+    "score": 0.685
+  },
+  {
+    "doc_id": "italy_holidays_v45",
+    "section_id": "holidays",
+    "text": "Italian employees are entitled to a minimum of 26 days of annual leave plus numerous statutory public holidays.",
+    "metadata": {
+      "country": "Italy",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-15"
+    },
+    "score": 0.68
+  },
+  {
+    "doc_id": "poland_holidays_v46",
+    "section_id": "holidays",
+    "text": "Polish employees receive minimum 26 days of annual leave plus statutory public holidays.",
+    "metadata": {
+      "country": "Poland",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-16"
+    },
+    "score": 0.675
+  },
+  {
+    "doc_id": "netherlands_holidays_v47",
+    "section_id": "holidays",
+    "text": "Dutch employees are entitled to a minimum of 20 days of annual leave based on a 5-day working week.",
+    "metadata": {
+      "country": "Netherlands",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-17"
+    },
+    "score": 0.67
+  },
+  {
+    "doc_id": "belgium_holidays_v48",
+    "section_id": "holidays",
+    "text": "Belgian employees receive a minimum of 20 days of annual leave plus 10 statutory public holidays.",
+    "metadata": {
+      "country": "Belgium",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-18"
+    },
+    "score": 0.665
+  },
+  {
+    "doc_id": "ireland_holidays_v49",
+    "section_id": "holidays",
+    "text": "Irish employees are entitled to a statutory minimum of 3 weeks annual leave and 9 public holidays per year.",
+    "metadata": {
+      "country": "Ireland",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-19"
+    },
+    "score": 0.66
+  },
+  {
+    "doc_id": "sweden_holidays_v50",
+    "section_id": "holidays",
+    "text": "Swedish employees receive a minimum of 25 days of paid annual leave plus statutory public holidays.",
+    "metadata": {
+      "country": "Sweden",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-20"
+    },
+    "score": 0.655
+  },
+  {
+    "doc_id": "portugal_holidays_v51",
+    "section_id": "holidays",
+    "text": "Portuguese employees are entitled to minimum 22 days of annual leave plus 11 public holidays per year.",
+    "metadata": {
+      "country": "Portugal",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-21"
+    },
+    "score": 0.65
+  },
+  {
+    "doc_id": "austria_holidays_v52",
+    "section_id": "holidays",
+    "text": "Austrian employees are entitled to a minimum of 20 days of annual leave plus numerous public holidays.",
+    "metadata": {
+      "country": "Austria",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-22"
+    },
+    "score": 0.645
+  },
+  {
+    "doc_id": "denmark_holidays_v53",
+    "section_id": "holidays",
+    "text": "Danish employees receive a minimum of 6 weeks of paid annual leave based on collective agreements.",
+    "metadata": {
+      "country": "Denmark",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-23"
+    },
+    "score": 0.64
+  },
+  {
+    "doc_id": "finland_holidays_v54",
+    "section_id": "holidays",
+    "text": "Finnish employees are entitled to a minimum of 20 days of annual leave plus statutory public holidays.",
+    "metadata": {
+      "country": "Finland",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-24"
+    },
+    "score": 0.635
+  },
+  {
+    "doc_id": "norway_holidays_v55",
+    "section_id": "holidays",
+    "text": "Norwegian employees receive a minimum of 21 days of annual leave plus statutory public holidays.",
+    "metadata": {
+      "country": "Norway",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-25"
+    },
+    "score": 0.63
+  },
+  {
+    "doc_id": "greece_holidays_v56",
+    "section_id": "holidays",
+    "text": "Greek employees are entitled to 20 days of annual leave plus various public holidays.",
+    "metadata": {
+      "country": "Greece",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-26"
+    },
+    "score": 0.625
+  },
+  {
+    "doc_id": "czechia_holidays_v57",
+    "section_id": "holidays",
+    "text": "Czech employees receive a minimum of 20 days of annual leave plus statutory public holidays.",
+    "metadata": {
+      "country": "Czechia",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-27"
+    },
+    "score": 0.62
+  },
+  {
+    "doc_id": "hungary_holidays_v58",
+    "section_id": "holidays",
+    "text": "Hungarian employees are entitled to minimum 20 days of paid annual leave plus public holidays.",
+    "metadata": {
+      "country": "Hungary",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-02-28"
+    },
+    "score": 0.615
+  },
+  {
+    "doc_id": "slovakia_holidays_v59",
+    "section_id": "holidays",
+    "text": "Slovak employees receive 20 days of annual leave minimum plus statutory public holidays.",
+    "metadata": {
+      "country": "Slovakia",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-03-01"
+    },
+    "score": 0.61
+  },
+  {
+    "doc_id": "estonia_holidays_v60",
+    "section_id": "holidays",
+    "text": "Estonian employees are entitled to minimum 20 days of annual leave plus statutory public holidays.",
+    "metadata": {
+      "country": "Estonia",
+      "topics": [
+        "holidays"
+      ],
+      "updated_at": "2025-03-02"
+    },
+    "score": 0.605
+  }
+]

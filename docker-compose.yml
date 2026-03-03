@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+  copilot_app:
+    build: .
+    depends_on:
+      - qdrant
+    env_file:
+      - .env
+    volumes:
+      - ./src:/app/src
+    command: python -m src.main
+
+volumes:
+  qdrant_data:
